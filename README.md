@@ -1,1 +1,1 @@
-This is a test repo 5, new copy.
+This is a test repo 5, new copy. Replicated
